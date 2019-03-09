@@ -1,11 +1,5 @@
 # test
 
-abc
-def
-12345678
-
-8980986675
-
-Testers gonna test ... sometimes
-
-I like commits
+abc|def
+-|-
+123|456
